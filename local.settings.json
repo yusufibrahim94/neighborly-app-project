@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=yusufappdefd29;AccountKey=+ckUJEzrpVSazySKqwwgYIdYSRGqX7xf1/XtT+euNG76XZq4PaUpO24ivD7l4GQFFEpRfb89cKpG+AStd75o9Q==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=yusufappdefd29;AccountKey=+ckUJEzrpVSazySKqwwgYIdYSRGqX7xf1/XtT+euNG76XZq4PaUpO24ivD7l4GQFFEpRfb89cKpG+AStd75o9Q==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "yusufappc311b9",
+    "neighborlydb" : "mongodb://yusufdatabase:IqatIua9VPNztY6dFfQRCimjoe3md9qitEgz0zi4wbBZGY7Yi8YUi8rpdhARuD2Cwuew24vCBbu9ACDbmMShRw==@yusufdatabase.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@yusufdatabase@"
+  }
+}
